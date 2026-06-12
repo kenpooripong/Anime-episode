@@ -2,62 +2,238 @@
   {
     "id": "inazuma-go",
     "title": "Inazuma Eleven GO",
-    "altTitles": ["เอนโดเปิดตัวภรรยา"],
+    "altTitles": [
+      "เอนโดเปิดตัวภรรยา"
+    ],
     "year": 2011,
     "coverImage": "https://images.unsplash.com/photo-1542204165-4d6f1f3b2f2b?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.0.3&s=placeholder",
     "synopsis": "A soccer-driven anime with dramatic scenes and memorable character moments.",
     "languages": [
-      {"emoji":"🇹🇭","label":"ซับไทย"},
-      {"emoji":"🎙️","label":"พากย์ไทย"}
+      {
+        "emoji": "🇹🇭",
+        "label": "ซับไทย"
+      },
+      {
+        "emoji": "🎙️",
+        "label": "พากย์ไทย"
+      }
     ],
     "firstEpisodeLink": "https://streaming.example.com/inazuma-go/ep1",
     "scenes": [
       {
-        "id":"inazuma-go-ep18",
-        "thumbnail":"https://images.unsplash.com/photo-1505666289200-1e7d4b4a3b8a?q=80&w=800&auto=format&fit=crop&ixlib=rb-4.0.3&s=placeholder",
+        "id": "inazuma-go-ep18",
+        "thumbnail": "https://images.unsplash.com/photo-1505666289200-1e7d4b4a3b8a?q=80&w=800&auto=format&fit=crop&ixlib=rb-4.0.3&s=placeholder",
         "episode": 18,
-        "title":"เอนโดเปิดตัวภรรยา",
-        "description":"A surprising and comedic moment where Endo introduces his bride.",
-        "link":"https://streaming.example.com/inazuma-go/ep18#t=00:00"
+        "title": "เอนโดเปิดตัวภรรยา",
+        "description": "A surprising and comedic moment where Endo introduces his bride.",
+        "link": "https://streaming.example.com/inazuma-go/ep18#t=00:00"
       },
       {
-        "id":"inazuma-ep78",
-        "thumbnail":"https://images.unsplash.com/photo-1515879218367-8466d910aaa4?q=80&w=800&auto=format&fit=crop&ixlib=rb-4.0.3&s=placeholder",
+        "id": "inazuma-ep78",
+        "thumbnail": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?q=80&w=800&auto=format&fit=crop&ixlib=rb-4.0.3&s=placeholder",
         "episode": 78,
-        "title":"เอนโดเดทกับฟุยุกะ",
-        "description":"A tender date scene between Endo and Fuyuka.",
-        "link":"https://streaming.example.com/inazuma/ep78#t=00:00"
+        "title": "เอนโดเดทกับฟุยุกะ",
+        "description": "A tender date scene between Endo and Fuyuka.",
+        "link": "https://streaming.example.com/inazuma/ep78#t=00:00"
       }
     ]
   },
   {
     "id": "mha-s3",
     "title": "My Hero Academia",
-    "altTitles": ["Boku no Hero Academia"],
+    "altTitles": [
+      "Boku no Hero Academia"
+    ],
     "year": 2019,
     "coverImage": "https://images.unsplash.com/photo-1510511459019-5dda7724fd87?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.0.3&s=placeholder",
     "synopsis": "Superheroes, school, and high stakes—contains many iconic scenes.",
     "languages": [
-      {"emoji":"🇯🇵","label":"原語」"},
-      {"emoji":"🇹🇭","label":"ซับไทย"}
+      {
+        "emoji": "🇯🇵",
+        "label": "原語」"
+      },
+      {
+        "emoji": "🇹🇭",
+        "label": "ซับไทย"
+      }
     ],
     "firstEpisodeLink": "https://streaming.example.com/mha/ep1",
     "scenes": [
       {
-        "id":"mha-s3-ep15",
-        "thumbnail":"https://images.unsplash.com/photo-1497034825429-c343d7c6a68f?q=80&w=800&auto=format&fit=crop&ixlib=rb-4.0.3&s=placeholder",
+        "id": "mha-s3-ep15",
+        "thumbnail": "https://images.unsplash.com/photo-1497034825429-c343d7c6a68f?q=80&w=800&auto=format&fit=crop&ixlib=rb-4.0.3&s=placeholder",
         "episode": 15,
-        "title":"อุรารากะมีความรัก",
-        "description":"A light-hearted scene focusing on Uraraka's feelings.",
-        "link":"https://streaming.example.com/mha/s3/ep15#t=00:00"
+        "title": "อุรารากะมีความรัก",
+        "description": "A light-hearted scene focusing on Uraraka's feelings.",
+        "link": "https://streaming.example.com/mha/s3/ep15#t=00:00"
       },
       {
-        "id":"mha-s3-ep16",
-        "thumbnail":"https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=800&auto=format&fit=crop&ixlib=rb-4.0.3&s=placeholder",
+        "id": "mha-s3-ep16",
+        "thumbnail": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=800&auto=format&fit=crop&ixlib=rb-4.0.3&s=placeholder",
         "episode": 16,
-        "title":"ตอนพิเศษสืบใครคือคนฆ่าวิลเลิน",
-        "description":"A special episode with mystery and All Might's humorous subplot.",
-        "link":"https://streaming.example.com/mha/s3/ep16#t=00:00"
+        "title": "ตอนพิเศษสืบใครคือคนฆ่าวิลเลิน",
+        "description": "A special episode with mystery and All Might's humorous subplot.",
+        "link": "https://streaming.example.com/mha/s3/ep16#t=00:00"
+      }
+    ]
+  },
+  {
+    "id": "one-piece",
+    "title": "One Piece",
+    "altTitles": [
+      "วันพีซ",
+      "วันพีช"
+    ],
+    "year": 1999,
+    "coverImage": "https://images.unsplash.com/photo-1613376023733-0a73315d9b06?q=80&w=1200&auto=format&fit=crop",
+    "synopsis": "การผจญภัยของ มังกี้ ดี ลูฟี่ และกลุ่มโจรสลัดหมวกฟาง เพื่อค้นหาสมบัติในตำนาน 'วันพีซ' และก้าวขึ้นเป็นราชาโจรสลัด",
+    "languages": [
+      {
+        "emoji": "🇯🇵",
+        "label": "ซับไทย"
+      },
+      {
+        "emoji": "🎙️",
+        "label": "พากย์ไทย"
+      }
+    ],
+    "firstEpisodeLink": "https://streaming.example.com/onepiece/ep1",
+    "scenes": [
+      {
+        "id": "op-ep309",
+        "thumbnail": "https://images.unsplash.com/photo-1598153346810-860daa814c4b?q=80&w=800&auto=format&fit=crop",
+        "episode": 309,
+        "title": "ลูฟี่ ปะทะ รุจจิ (CP9)",
+        "description": "ฉากต่อสู้สุดมันส์ ลูฟี่ทุ่มสุดตัวใช้เกียร์ 2 และ 3 เพื่อปกป้องโรบินจากการจับกุมของ CP9",
+        "link": "https://streaming.example.com/onepiece/ep309#t=00:00"
+      },
+      {
+        "id": "op-ep483",
+        "thumbnail": "https://images.unsplash.com/photo-1560934094-1a3b8364e526?q=80&w=800&auto=format&fit=crop",
+        "episode": 483,
+        "title": "จุดจบของเอส",
+        "description": "ฉากสะเทือนอารมณ์ในสงครามมารีนฟอร์ด ที่แฟนๆ วันพีซไม่มีวันลืม",
+        "link": "https://streaming.example.com/onepiece/ep483#t=00:00"
+      }
+    ]
+  },
+  {
+    "id": "fairy-tail",
+    "title": "Fairy Tail",
+    "altTitles": [
+      "แฟรี่เทล",
+      "ศึกจอมเวทอภินิหาร"
+    ],
+    "year": 2009,
+    "coverImage": "https://images.unsplash.com/photo-1541562232579-512a21360020?q=80&w=1200&auto=format&fit=crop",
+    "synopsis": "เรื่องราวของกิลด์เวทมนตร์สุดป่วน 'แฟรี่เทล' นำโดย นัตสึ ดรากูนีล ลูซี่ และเพื่อนๆ ที่ต้องเผชิญกับภารกิจและศัตรูระดับพระกาฬ",
+    "languages": [
+      {
+        "emoji": "🇯🇵",
+        "label": "ซับไทย"
+      },
+      {
+        "emoji": "🎙️",
+        "label": "พากย์ไทย"
+      }
+    ],
+    "firstEpisodeLink": "https://streaming.example.com/fairytail/ep1",
+    "scenes": [
+      {
+        "id": "ft-ep175",
+        "thumbnail": "https://images.unsplash.com/photo-1519638399535-1b036603ac77?q=80&w=800&auto=format&fit=crop",
+        "episode": 175,
+        "title": "นัตสึ ปะทะ มังกรคู่",
+        "description": "ฉากการแข่งขันไดมาโทเอ็น นัตสึโชว์พลังดราก้อนสเลเยอร์จัดการมังกรคู่แห่งเซเบอร์ทูธแบบคนเดียว",
+        "link": "https://streaming.example.com/fairytail/ep175#t=00:00"
+      },
+      {
+        "id": "ft-ep277",
+        "thumbnail": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?q=80&w=800&auto=format&fit=crop",
+        "episode": 277,
+        "title": "การรวมตัวอีกครั้งของแฟรี่เทล",
+        "description": "หลังจากการยุบกิลด์ นัตสึและลูซี่ออกเดินทางเพื่อตามหาสมาชิกทุกคนกลับมาสร้างกิลด์อีกครั้ง",
+        "link": "https://streaming.example.com/fairytail/ep277#t=00:00"
+      }
+    ]
+  },
+  {
+    "id": "prince-of-tennis",
+    "title": "Prince of Tennis",
+    "altTitles": [
+      "เจ้าชายลูกสักหลาด",
+      "เดอะ ปริ๊นซ์ ออฟ เทนนิส"
+    ],
+    "year": 2001,
+    "coverImage": "https://images.unsplash.com/photo-1595435934249-5df7ed86e1c0?q=80&w=1200&auto=format&fit=crop",
+    "synopsis": "เรื่องราวของ เอจิเซ็น เรียวมะ อัจฉริยะเทนนิสรุ่นเยาว์ที่เข้าร่วมชมรมเทนนิสโรงเรียนเซชุน (เซงาคุ) และร่วมมือกับรุ่นพี่เพื่อเป้าหมายในการคว้าแชมป์ระดับประเทศ",
+    "languages": [
+      {
+        "emoji": "🇯🇵",
+        "label": "ซับไทย"
+      },
+      {
+        "emoji": "🎙️",
+        "label": "พากย์ไทย"
+      }
+    ],
+    "firstEpisodeLink": "https://streaming.example.com/prince-of-tennis/ep1",
+    "scenes": [
+      {
+        "id": "pot-ep1",
+        "thumbnail": "https://images.unsplash.com/photo-1622279457486-640ca4a4ea89?q=80&w=800&auto=format&fit=crop",
+        "episode": 1,
+        "title": "ทวิสต์เสิร์ฟเปิดตัว",
+        "description": "ฉากเปิดตัวความเทพของเรียวมะที่ใช้ท่า ทวิสต์เสิร์ฟ (Twist Serve) ตอกหน้าคู่แข่งจนหงายเงิบ",
+        "link": "https://streaming.example.com/prince-of-tennis/ep1#t=00:00"
+      },
+      {
+        "id": "pot-ep65",
+        "thumbnail": "https://images.unsplash.com/photo-1554068865-24cecd4e34d8?q=80&w=800&auto=format&fit=crop",
+        "episode": 65,
+        "title": "เรียวมะ ปะทะ อาโตเบะ",
+        "description": "การดวลกันสุดมันส์ระหว่างเสาหลักของเซงาคุและราชาแห่งเฮียวเท",
+        "link": "https://streaming.example.com/prince-of-tennis/ep65#t=00:00"
+      }
+    ]
+  },
+  {
+    "id": "hunter-x-hunter",
+    "title": "Hunter x Hunter",
+    "altTitles": [
+      "ฮันเตอร์ x ฮันเตอร์",
+      "HxH"
+    ],
+    "year": 2011,
+    "coverImage": "https://images.unsplash.com/photo-1578632292335-df3fbc0f172c?q=80&w=1200&auto=format&fit=crop",
+    "synopsis": "กอร์น ฟรีคส์ เด็กหนุ่มผู้ใฝ่ฝันจะเป็นฮันเตอร์ที่ยิ่งใหญ่เพื่อตามหาพ่อของเขา พร้อมกับเพื่อนพ้อง คิรัวร์ คุราปิก้า และเลโอลีโอ ที่ต้องเผชิญหน้ากับการทดสอบและศัตรูสุดอันตราย",
+    "languages": [
+      {
+        "emoji": "🇯🇵",
+        "label": "ซับไทย"
+      },
+      {
+        "emoji": "🎙️",
+        "label": "พากย์ไทย"
+      }
+    ],
+    "firstEpisodeLink": "https://streaming.example.com/hunter-x-hunter/ep1",
+    "scenes": [
+      {
+        "id": "hxh-ep116",
+        "thumbnail": "https://images.unsplash.com/photo-1506501139174-099022df5260?q=80&w=800&auto=format&fit=crop",
+        "episode": 116,
+        "title": "ความโกรธแค้นของกอร์น",
+        "description": "ฉากที่กอร์นเผชิญหน้ากับปิโต้ และปลดปล่อยออร่าความโกรธแค้นสุดขีดเมื่อรู้ความจริงเรื่องไคท์",
+        "link": "https://streaming.example.com/hunter-x-hunter/ep116#t=00:00"
+      },
+      {
+        "id": "hxh-ep131",
+        "thumbnail": "https://images.unsplash.com/photo-1614583224978-f05ce51ef5fa?q=80&w=800&auto=format&fit=crop",
+        "episode": 131,
+        "title": "ร่างสัตย์สาบาน",
+        "description": "กอร์นยอมแลกพรสวรรค์และชีวิตทั้งหมดเพื่อแลกกับพลังมหาศาลในการจัดการปิโต้",
+        "link": "https://streaming.example.com/hunter-x-hunter/ep131#t=00:00"
       }
     ]
   }
